@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b34eac9-5c8a-4ca3-ac31-ccb3f3c63f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nop-commerce-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nop-commerce-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nop-commerce-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nop-commerce-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nop-commerce-demo/src/test/java/com/nopcommerce/demo/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b34eac9-5c8a-4ca3-ac31-ccb3f3c63f9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/soft/Homework/week14/week14_nopecommerce_project1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/soft/Homework/week14/week14_tutorialninja_project3",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\soft\Homework\week14\week14_nopecommerce_project1\nop-commerce-demo\src\test\java\com.nopcommerce.demo" />
